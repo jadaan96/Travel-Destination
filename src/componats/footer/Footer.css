@@ -1,0 +1,28 @@
+.footerdiv {
+    display: flex   ;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: rgba(167, 22, 94, 0.767);
+    height: 70px;
+}
+.footerdiv nav {
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   padding: 5px;
+
+}
+.footerdiv nav a {
+    text-decoration: none;
+    border: 3px dashed rgba(14, 162, 182, 0.521);
+    border-radius: 2px;
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+} 
+.footerdiv p {
+    color: #cfbdce;
+}
