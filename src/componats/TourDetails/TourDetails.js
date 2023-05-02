@@ -13,7 +13,7 @@ export default function TourDetails(props) {
   const showMore1 = () => {
     setShowInfo(!showInfo);
   }
-
+//
   return (
     <>
     
