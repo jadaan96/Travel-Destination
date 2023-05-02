@@ -1,0 +1,11 @@
+.infoClass{
+    display: flex   ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 630px;
+    margin-left: 25%;
+    margin-top: 117px;
+    border: 3px dashed turquoise;
+    padding: 10px;
+}
