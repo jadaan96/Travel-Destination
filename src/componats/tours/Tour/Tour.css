@@ -1,0 +1,38 @@
+.mainDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.TourDiv{
+    display: flex;
+    flex-direction: column;
+    
+}
+.imgClass{
+    width: 250px;
+    height: 180px;
+    border-radius: 40%;
+    display: flex;
+    align-items: center;
+}
+.divClass{
+    background-color: #9BA4B5;
+    width: 350px;
+    height: 320px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    border-radius: 10%;
+    justify-content: space-around;
+}
+.divClass p{
+    font-size: 29px;
+    font-family: -webkit-body;
+    color: khaki;
+    border: 3px dashed  rgb(170, 151, 44)  ;
+    border-radius: 10px;
+    padding: 6px;
+    text-decoration: none;
+}
